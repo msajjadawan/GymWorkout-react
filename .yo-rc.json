@@ -1,0 +1,39 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "GymWorkout",
+    "packageName": "com.mobilmind.gym",
+    "packageFolder": "com/mobilmind/gym",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "session",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "gradle",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "react",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.7.2",
+    "rememberMeKey": "2b2c1325da8343b7c5312dda61d7323774ebd75cc158a24dae6cb9f9b7efcfc878ce3ce1fc39adb65765407d9c9e6d6fabd1",
+    "otherModules": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "msajjadawan",
+  "repository-name": "GymWorkout-react"
+}
